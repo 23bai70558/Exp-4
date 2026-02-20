@@ -1,4 +1,7 @@
 # React Router + State Management SPA
+<img width="1806" height="965" alt="image" src="https://github.com/user-attachments/assets/e88d783f-012a-4228-93cf-5365037eca93" />
+<img width="1801" height="937" alt="image" src="https://github.com/user-attachments/assets/b3158ff3-2b64-49ff-bbf6-abec502b9dcd" />
+
 
 A modern **Single Page Application** built with **Vite + React**, **React Router DOM v6**, **Context API**, and **Redux Toolkit**, demonstrating comprehensive routing capabilities and advanced state management patterns.
 
